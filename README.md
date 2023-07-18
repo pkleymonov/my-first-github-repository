@@ -1,4 +1,4 @@
 # my-first-github-repository
 Here my first Github repo.
 
-Readme.md was just edited. This file was modified locally
+Readme.md was just edited. Resolved conflict
